@@ -1,0 +1,14 @@
+2. Problem Statement
+Titanic Data Analysis
+Write a mapreduce program to find out number of males and females died in the titanic tragedy and save  the output in KeyValue Output format.
+
+INPUT
+ 
+MAPPER 
+REDUCER 
+DRIVER 
+
+OUTPUT
+ 
+
+
